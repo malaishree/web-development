@@ -1,0 +1,6 @@
+.first{
+	background-image :url("1.jpg");
+	background-position : center;
+	background-repeat : no-repeat;
+	background-size : 100% 100%;
+}

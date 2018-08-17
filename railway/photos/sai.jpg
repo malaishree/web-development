@@ -1,0 +1,23 @@
+.first{
+	background-image:url("train.jpg");
+	background-position : center;
+	background-repeat : no-repeat;
+	background-size : 100% 100%;
+}
+.div
+{
+	background-color:#95a5a6;
+	width:50%;
+	height:60%;
+	border:3px solid black;
+	margin:100px auto;
+	padding:2px;
+}
+
+.second
+{
+	background-image:url("train.jpg");
+	background-position : center;
+	background-repeat : no-repeat;
+	background-size : 100% 100%;
+}
